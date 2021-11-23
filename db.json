@@ -17,6 +17,12 @@
       "day": "Nov 7th at 10:00 am",
       "reminder": false,
       "id": 3
+    },
+    {
+      "text": "Client VideoCall testtt",
+      "day": "Nov 7th at 10:00 am",
+      "reminder": false,
+      "id": 3
     }
   ]
 }
